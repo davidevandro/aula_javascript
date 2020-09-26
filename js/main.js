@@ -1,3 +1,14 @@
+
+
+//------------AULA 03 - Datas
+//var d = new Date();
+//alert(d);
+//Exibe o mês (começa em 0)
+//alert(d.getMonth()+1)
+//alert(d.getHours());
+//alert(d.getMinutes());
+
+
 //------------AULA 03 - Estruturas de Repetição
 //LOOP FOR
 /*var count;
