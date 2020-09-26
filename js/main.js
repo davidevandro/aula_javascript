@@ -1,4 +1,16 @@
 
+
+//--------- AULA 03 - Condicionais
+//Exibe pop-up com pergunta para usuário
+/*var idade = prompt("Qual sua idade?");
+
+if (idade >= 18){
+    alert("Maior de idade!");
+} else {
+    alert("Menor de idade!");
+}*/
+
+
 //----------------------AULA 02 - Dictionary
 //var frutas = [{nome: "maça", cor: "vermelha"},{nome: "uva", cor: "roxa"}];
 //console.log(frutas)
