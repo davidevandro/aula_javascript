@@ -1,3 +1,15 @@
+
+//----------------------AULA 02 - Dictionary
+//var frutas = [{nome: "maça", cor: "vermelha"},{nome: "uva", cor: "roxa"}];
+//console.log(frutas)
+//console.log(frutas[1].nome)
+
+//var fruta = {nome: "maça", cor: "vermelha"};
+//console.log(fruta);
+//console.log(fruta.nome);
+//console.log(fruta.cor)
+
+
 //------------------AULA 02 - Array
 //var lista = ["maça", "pera", "laranja"];
 //Adiciona item na lista
