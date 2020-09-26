@@ -1,3 +1,17 @@
+//------------AULA 03 - Estruturas de Repetição
+//LOOP FOR
+/*var count;
+for (count = 0; count <= 5, count++){
+    console.log(count);
+}*/
+
+//LOOP WHILE
+/*var count = 0;
+
+while (count <= 5){
+    console.log(count);
+    count = count++;
+}*/
 
 
 //--------- AULA 03 - Condicionais
